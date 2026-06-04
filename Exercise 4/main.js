@@ -1,10 +1,7 @@
-
 // function basics
-
-function add (x, y) {
+function add(x, y){
     return x + y
 }
-
 let result = add(10, 20)
 console.log(result + 10)
 console.log(result * 3)
