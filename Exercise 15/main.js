@@ -12,5 +12,5 @@ for (const person of people) {
   for (key in person) {
     console.log(`${key}; ${person[key]}`);
   }
-  console.log("----");
+  console.log("_____");
 }
