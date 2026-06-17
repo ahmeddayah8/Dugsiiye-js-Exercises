@@ -1,0 +1,9 @@
+{
+    "id" : 1,
+    "name" : "Ahmed",
+    "city" : "hamar",
+    "order" : [
+       { "id" : 1, "product" : "laptop", "quantity" : 2 }
+       { "id" : 2, "product" : "headphones", "quantity" : 1 }
+    ]
+}
