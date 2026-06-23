@@ -9,9 +9,9 @@ function changeImage() {
 
   image.setAttribute("src", "url");
   image.style.border = `2px solid ${borderColor}`;
-    image.style.width = `${width}px`;
-    image.style.height = `${height}px`;
-    image.style.borderRadius = `${borderRadius}px`;
-    image.style.padding = "20px";
-    image.style.backgroundColor = '#ae5781';
+  image.style.width = `${width}px`;
+  image.style.height = `${height}px`;
+  image.style.borderRadius = `${borderRadius}px`;
+  image.style.padding = "20px";
+  image.style.backgroundColor = "#ae5781";
 }
